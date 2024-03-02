@@ -21,3 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaooh98&theme=github_dark&layout=compact&hide_border=true&locale=pt-br)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joaooh98&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+
+<div style="text-align:center;">
+  <img src="coffee.png" style="width:300px; max-width:100%;" alt="Computador">
+</div>
