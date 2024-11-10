@@ -1,27 +1,36 @@
-<h2> About Me ✌️</h2>
+<div align="center">
 
-- 🔭 I’m currently working on Java Development and SQL.
-- 🌱 I’m currently learning Rest API and Quarkus.
+# 👋 Hello, I'm João Carlos
 
-<h2> Connect with me 🤝</h2>
+🎯 Focused on **Java**, **Quarkus**. 
 
-<a href = 'https://www.linkedin.com/in/joao-carlos-paiva-249a1725a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-<a href = 'https://www.instagram.com/joaocarlosdepaiva98/'> <img width = '32px' align= 'center' src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg"/>
+🌱 Learning **[React](https://react.dev/)** and **[Kubernetes](https://kubernetes.io/docs/home/)**
 
-<h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
+---
 
-<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'> </a>
-<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'> </a>
-<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/docker.svg'> </a>
+### 🎓 Education
 
-<h2> GitHub Stats </h2>
+ **Bachelor’s Degree in Software Engineering**  
+  📅 **Expected Graduation:** 15/07/2025
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaooh98&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaooh98&theme=github_dark&layout=compact&hide_border=true&locale=pt-br)
+### 🚀 Technologies 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joaooh98&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div style="text-align:center;">
-  <img src="coffee.png" style="width:300px; max-width:100%;" alt="Computador">
+---
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joaooh98&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)  
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-paiva-249a1725a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaocarlosdepaiva98/)
+
 </div>
